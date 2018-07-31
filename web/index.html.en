@@ -1,0 +1,20 @@
+<html>
+<body>
+  <form action="SetGameParametersOnline.php" method="post">
+  <p>
+  Velocity: <input type="text" name="Velocity" autofocus required />
+  <br />
+  Game Time: <input type="text" name="Time" required />
+  <br />
+  Item Score: <input type="text" name="ItemScore" required />
+  <br />
+  Vitality: <input type="text" name="Vitality" required />
+  <br />
+  Damage: <input type="text" name="Damage" required />
+
+
+  <input type="submit" value="Submit!" />
+  </p>
+  </form>
+</body>
+</html>
